@@ -7,12 +7,12 @@
   <img src="https://raw.githubusercontent.com/sardinaa/sardinaa/main/assets/avatar.png" width="120" alt="Oscar Palomo Avatar" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Oscar Palomo</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Òscar Palomo</b></h1>
 <h3 align="center">Computer Vision Engineer | AI Enthusiast | Creator</h3>
 
 <p align="center">
-  <a href="mailto:oscar.palomo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/oscar-palomo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:oscarpaldow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/oscarpalomod/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://sardinaa.github.io/Blog"><img src="https://img.shields.io/badge/Blog-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Remote-blue?style=flat-square"/>
 </p>
@@ -102,7 +102,7 @@
 ## 🤝 Let’s Connect!
 
 > Want to collaborate, discuss AI, or talk open source?  
-> **[Email me](mailto:oscar.palomo@email.com)** or connect on [LinkedIn](https://www.linkedin.com/in/oscar-palomo).
+> **[Email me](mailto:oscarpaldow@gmail.com)** or connect on [LinkedIn]([https://www.linkedin.com/in/oscarpalomod/]).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" />
